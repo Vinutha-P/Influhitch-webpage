@@ -1,0 +1,95 @@
+.first_container {
+  position: relative;
+  margin-top: 5rem;
+}
+
+.image-container {
+  position: relative;
+}
+
+.background-image {
+  display: block;
+  object-fit: cover;
+  margin-left: 48rem;
+}
+
+.text-container {
+  position: absolute;
+  margin: 4rem 37rem 0rem 11rem;
+}
+
+.text2 {
+  margin: 2rem 0 0rem 10rem;
+  font-size: 11px;
+}
+
+.applestore-image {
+  display: flex;
+  width: 19rem;
+  position: absolute;
+  left: 39%;
+  top: 92%;
+  padding: 0 1.5rem 0 0.5rem;
+}
+
+.playstore-image {
+  display: flex;
+  width: 19rem;
+  position: absolute;
+  left: 1%;
+  top: 83%;
+  bottom: 1%;
+  padding: 0px 1.5rem 0 7.5rem;
+}
+
+.powerup_influence {
+  background: rgb(41, 6, 6);
+  width: 100%;
+  margin-top: 2.3rem;
+  display: flex;
+}
+
+.powerup-image {
+  left: 4%;
+  position: relative;
+  padding: 0px 1.5rem 0 7.5rem;
+}
+
+.text3 {
+  color: #fff;
+  margin: 8rem;
+}
+.text3 > p {
+  margin-top: 1.9rem;
+  font-size: 17px;
+}
+
+.elevate_statergy {
+  display: flex;
+}
+.elevateStratergy-image {
+  right: 4%;
+  position: relative;
+  padding: 0px 1.5rem 0 7.5rem;
+}
+.text4 {
+  margin: 10rem 0 0 8rem;
+}
+.text4 > p {
+  margin-top: 1.9rem;
+  font-size: 17px;
+}
+.our_brands>h1{
+    text-align: center !important ;
+    margin-top: 2.5rem;
+}
+
+.our_brandsimages{
+    background-color: #cde8f9;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.singlebrand{
+    padding: 7px 16px 1px 38px;
+}
