@@ -19,9 +19,9 @@ const Footer = () => {
      </div>
      <div className="socials">
        <BsEnvelopePaper/> Email:- <br />
-       <a href="nnandan@influhitch.in">nnandan@influhitch.in</a><br />
-       <a href="mvij@influhitch.in">mvij@influhitch.in</a><br />
-       <a href="raja.emani@influhitch.in">raja.emani@influhitch.in</a><br />
+       <a href="mailto:nnandan@influhitch.in">nnandan@influhitch.in</a><br />
+       <a href="mailto:mvij@influhitch.in">mvij@influhitch.in</a><br />
+       <a href="mailto:raja.emani@influhitch.in">raja.emani@influhitch.in</a><br />
        <SlLocationPin/> Address:- <br />
        <p>Whitefield, Bengaluru, KA, India - 560066</p>
      </div>
