@@ -15,7 +15,7 @@ import "./main.css";
 
 const Main = () => {
   return (
-    <div className="main_container">
+    <div className="container main_container">
       <div className="first_container">
         <div className="image-container">
           <div className="text-container">

@@ -93,3 +93,45 @@
 .singlebrand{
     padding: 7px 16px 1px 38px;
 }
+
+
+/* ==============small devices===================== */
+
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+  .text-container {
+    position: relative;
+     margin: 2rem 2rem; 
+     font-size: small;
+  }
+
+  .background-image {
+    margin-left: 0;
+  }
+
+  .applestore-image,
+  .playstore-image {
+    left: 0;
+    position: static;
+    margin-top: 1rem;
+  }
+
+  .powerup_influence,
+  .elevate_statergy {
+    flex-direction: column;
+    width: 50%;
+  }
+
+  .powerup-image,
+  .elevateStratergy-image {
+    padding: 0;
+    position: static;
+    margin: 1rem auto;
+  }
+
+  .text3,
+  .text4 {
+    margin: 2px 12px 2px 12px;
+  }
+}

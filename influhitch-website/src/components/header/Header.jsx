@@ -12,10 +12,13 @@ const Header = () => {
         <a  href="#header">Home</a>
       </div>
       <div className="navlinks"> 
-      <a href="">FAQ</a>
+      <a href="https://www.influhitch.in/faq.html">FAQ</a>
+      </div>
+      <div className="navlinks">
+        <a  href="#header">Privacy Policy</a>
       </div>
      <div className="btn">
-     <a href="" >Partner with Influhitch</a>  
+     <a href="https://www.influhitch.in/form.html" >Partner with Influhitch</a>  
      </div>
       </div>
     </header>

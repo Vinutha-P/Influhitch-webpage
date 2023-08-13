@@ -1,0 +1,59 @@
+.footer_container {
+    background:rgb(21, 141, 206);
+    width: 100%;
+    margin-top: 2.3rem;
+    display: flex;
+    color: #fff !important;
+    justify-content: space-around;
+    padding: 2rem;
+  }
+
+  .footer_container a {
+    color: white; 
+    text-decoration: none;
+    color: aliceblue;
+    font-weight:100;
+    font-size: 15px;
+  }
+
+  .influhitch a{
+    font-size: 2.4rem;
+    margin-left: 4rem;
+  }
+
+  .influhitch h5{
+    font-weight:100;
+    font-size: 15px;
+    color: aliceblue;
+    margin-left: 4rem;
+  }
+
+  .socials p{
+    font-weight:100;
+    font-size: 15px;
+    color: aliceblue;
+  }
+
+  .lastline::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    background-color:rgb(255, 255, 255);
+    bottom: 2rem;
+    left: 0;
+  }
+
+  .lastline{
+    background: rgb(21, 141, 206);
+    width: 100%;
+    color: #fff !important;
+  }
+
+.lastline p{
+  font-weight:100;
+    font-size: 16px;
+    color: aliceblue;
+    padding: 4rem;
+    margin-left: 6rem;
+}
