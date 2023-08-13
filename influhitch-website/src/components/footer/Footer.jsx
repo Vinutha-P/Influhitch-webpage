@@ -2,6 +2,7 @@ import React from 'react'
 import './footer.css'
 import {BsEnvelopePaper} from 'react-icons/bs'
 import {SlLocationPin} from 'react-icons/sl'
+import { Link } from 'react-router-dom'
 
 const Footer = () => {
   return (
@@ -12,8 +13,8 @@ const Footer = () => {
      <h5>An App Based Influencer marketing Ecosystem Marketplace</h5>
      </div>
      <div className="links">
-       <a href="">Partner with InfluHitch</a><br />
-       <a href="">FAQ</a><br />
+     <Link to="/">Partner with InfluHitch</Link><br />
+       <Link to="/faq">FAQ</Link><br />
        <a href="">Apply for Campaign</a>
      </div>
      <div className="socials">

@@ -1,0 +1,32 @@
+.privacy_container{
+    margin-top: 1.5rem;
+    padding: 3rem;
+}
+
+.privacy_container h1{
+    text-align: center;
+    font-size: 4rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Times New Roman', Times, serif;
+}
+
+
+.privacy_container h2{
+    text-align: center;
+    font-size: 1.5rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Times New Roman', Times, serif;
+}
+
+
+.privacy_container p{
+    line-height:2em ;
+    width :70%;
+    text-align: justify;
+    margin-top: 2rem;
+    margin-left: 12rem;
+    font-size: 20px;
+    font-weight: 10;
+}
+
+li{
+    list-style:disc;
+}

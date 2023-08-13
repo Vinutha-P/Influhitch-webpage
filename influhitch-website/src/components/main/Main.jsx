@@ -40,6 +40,7 @@ const Main = () => {
                 alt="playstore"
                 className="playstore-image"
               />
+              <p>Comming Soon!!</p>
             </div>
           </div>
           <img src={headerimage} alt="header" className="background-image" />

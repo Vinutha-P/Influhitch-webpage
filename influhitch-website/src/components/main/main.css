@@ -94,6 +94,13 @@
     padding: 7px 16px 1px 38px;
 }
 
+.imagedownload p{
+  line-height: normal!important;
+  font-size: 23px;
+  margin-left: 13rem;
+  color: rgb(44, 96, 44);
+}
+
 
 /* ==============small devices===================== */
 
