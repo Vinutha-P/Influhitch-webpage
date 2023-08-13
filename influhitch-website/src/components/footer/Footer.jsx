@@ -9,7 +9,7 @@ const Footer = () => {
    <footer>
      <div className="footer_container">
      <div className="influhitch">
-    <a href="https://www.influhitch.in">InfluHitch private Limited</a>
+      <Link to="/">InfluHitch private Limited</Link>
      <h5>An App Based Influencer marketing Ecosystem Marketplace</h5>
      </div>
      <div className="links">
