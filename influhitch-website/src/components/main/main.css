@@ -120,7 +120,7 @@
   .powerup_influence,
   .elevate_statergy {
     flex-direction: column;
-    width: 50%;
+    width: 100%;
   }
 
   .powerup-image,
