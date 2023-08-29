@@ -4,6 +4,7 @@ import Header from "./components/header/Header";
 import Footer from "./components/footer/Footer";
 import Main from "./components/main/Main";
 import Faq from "./components/faq/Faq"; 
+import Form from "./components/form/Form";
 import Privacy from './components/privacy/Privacy';
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
         <Header />
         <Routes>
           <Route path="/faq" element={<Faq />} />
+          <Route path="/form" element={<Form />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/" element={<Main />} />
         </Routes>

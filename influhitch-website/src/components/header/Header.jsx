@@ -19,7 +19,7 @@ const Header = () => {
       <Link to="/privacy">Privacy Policy</Link>
       </div>
      <div className="btn">
-     <a href="https://www.influhitch.in/form.html" >Partner with Influhitch</a>  
+      <a href="https://forms.zohopublic.in/nnandan/form/PartnerwithInfluhitch/formperma/iUH7DmnDsvKGaX3lPKVL6fZy3AUDErZAQ8VDg9UqN4k">Partner with Influhitch</a>
      </div>
       </div>
     </header>

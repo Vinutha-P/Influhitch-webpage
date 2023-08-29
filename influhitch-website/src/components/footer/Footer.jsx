@@ -13,7 +13,7 @@ const Footer = () => {
      <h5>An App Based Influencer marketing Ecosystem Marketplace</h5>
      </div>
      <div className="links">
-     <Link to="/">Partner with InfluHitch</Link><br />
+     <a href="https://forms.zohopublic.in/nnandan/form/PartnerwithInfluhitch/formperma/iUH7DmnDsvKGaX3lPKVL6fZy3AUDErZAQ8VDg9UqN4k">Partner with Influhitch</a><br />
        <Link to="/faq">FAQ</Link><br />
        <a href="">Apply for Campaign</a>
      </div>
